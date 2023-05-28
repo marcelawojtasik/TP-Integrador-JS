@@ -1,0 +1,40 @@
+.bg-nav-gray{
+    background-color: #353a40;
+}
+ul{
+    list-style-type: none;    
+    text-align:right;
+}
+li{
+    float: left;
+}
+li a{
+    display:flex;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.navigationbar{
+    float: right;
+}
+.caption{
+    text-align: end;
+}
+.btn-comprar{
+    background-color: #29a744;    
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn-enviar{
+    background-color: #96c93e;
+}
+.bg-totalapagar{
+    background-color: #cce5ff;
+    color: #456a92;
+}
+#grad{
+    background-image: linear-gradient(to right, #1c3643, #1e5371); 
+}
